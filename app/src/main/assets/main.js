@@ -1,5 +1,5 @@
 function onPushMeClicked() {
-  Native.showToast('PushMe clicked!');
+  Native.showToast('Java PushMe clicked!');
   return false;
 }
 
